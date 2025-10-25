@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from datetime import time
 import json, pytz, asyncio
 
-TOKEN = "8290261003:AAEUwKBOyW2COol8kzLOUdrFlTp4WvL5eCs"
+TOKEN = ""
 SGT = pytz.timezone("Asia/Singapore")
 
 PROGRESS_FILE = "progress.json"
