@@ -7,8 +7,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from datetime import time
 import json, pytz, asyncio
 
-# 🔑 Replace with your BotFather token
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+TOKEN = "8290261003:AAEUwKBOyW2COol8kzLOUdrFlTp4WvL5eCs"
 SGT = pytz.timezone("Asia/Singapore")
 
 PROGRESS_FILE = "progress.json"
